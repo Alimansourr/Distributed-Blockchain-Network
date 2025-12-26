@@ -1,0 +1,2 @@
+experiment_name,n_nodes,capacity,difficulty,n_tx,success_tx,total_http_time,throughput,num_blocks,avg_block_time
+2nodes_cap1_diff4_run1,2,3,4,20,20,13.27844524383545,1.506200434820112,16,0.48792964617411294
